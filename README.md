@@ -1,6 +1,6 @@
 ## I00-Motor-Module
 
-![schematic](assests/schematic.png)
+![schematic](assets/schematic.png)
 
 ### Datasheets
 - https://www.ti.com/lit/ds/symlink/lm2678.pdf
