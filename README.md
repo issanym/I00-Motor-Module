@@ -4,11 +4,7 @@
 ![schematic](assets/schematic.png)
 
 ### to-do
-- [ ] fix decoulping caps values
-- [ ] fix SR/IR resistors values
-- [ ] add reverse polarity protection
-- [ ] use stand ISP pin order
-- [ ] 
+
 
 ### Datasheets
 - https://www.ti.com/lit/ds/symlink/lm2678.pdf
